@@ -1,0 +1,248 @@
+Matching: Back_Pan
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Pan_Back
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Belt_Pan
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Pan_Belt
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Wear_Pan
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Pan_Wear
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Wear_Belt
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Belt_Wear
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Back_Belt
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Belt_Back
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Back_Wear
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Wear_Back
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+=====================================
+Matching: Back_Pan
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Pan_Back
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Belt_Pan
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Pan_Belt
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Wear_Pan
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Pan_Wear
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Wear_Belt
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Belt_Wear
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Back_Belt
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Belt_Back
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Back_Wear
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Wear_Back
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+=====================================
+Time: Sunday, 04 October 2020 15:52:06
+Matching: Back_Pan
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Pan_Back
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Belt_Pan
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Pan_Belt
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Wear_Pan
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Pan_Wear
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Wear_Belt
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Belt_Wear
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Back_Belt
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Belt_Back
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Back_Wear
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+Matching: Wear_Back
+   Low = { 0, 0, 0 }, Average = 0
+   Mid = { 0, 0, 0 }, Average = 0
+   High = { 0, 0, 0 }, Average = 0
+================================================
+Time: Sunday, 04 October 2020 15:55:08
+Matching: Back_Pan
+   Low = { 30, 15, 15 }, Average = 20
+   Mid = { 15, 15, 15 }, Average = 15
+   High = { 15, 15, 15 }, Average = 15
+Matching: Pan_Back
+   Low = { 15, 15, 15 }, Average = 15
+   Mid = { 15, 15, 15 }, Average = 15
+   High = { 15, 15, 15 }, Average = 15
+Matching: Belt_Pan
+   Low = { 15, 15, 15 }, Average = 15
+   Mid = { 15, 15, 15 }, Average = 15
+   High = { 15, 15, 15 }, Average = 15
+Matching: Pan_Belt
+   Low = { 15, 15, 15 }, Average = 15
+   Mid = { 15, 15, 15 }, Average = 15
+   High = { 15, 15, 15 }, Average = 15
+Matching: Wear_Pan
+   Low = { 15, 15, 15 }, Average = 15
+   Mid = { 15, 15, 15 }, Average = 15
+   High = { 15, 15, 15 }, Average = 15
+Matching: Pan_Wear
+   Low = { 15, 15, 15 }, Average = 15
+   Mid = { 45, 15, 15 }, Average = 25
+   High = { 15, 15, 15 }, Average = 15
+Matching: Wear_Belt
+   Low = { 15, 15, 15 }, Average = 15
+   Mid = { 15, 15, 15 }, Average = 15
+   High = { 60, 15, 15 }, Average = 30
+Matching: Belt_Wear
+   Low = { 15, 15, 15 }, Average = 15
+   Mid = { 60, 15, 15 }, Average = 30
+   High = { 15, 15, 15 }, Average = 15
+Matching: Back_Belt
+   Low = { 15, 15, 15 }, Average = 15
+   Mid = { 15, 15, 15 }, Average = 15
+   High = { 15, 60, 45 }, Average = 40
+Matching: Belt_Back
+   Low = { 15, 15, 15 }, Average = 15
+   Mid = { 15, 45, 135 }, Average = 65
+   High = { 15, 15, 15 }, Average = 15
+Matching: Back_Wear
+   Low = { 15, 15, 15 }, Average = 15
+   Mid = { 15, 15, 15 }, Average = 15
+   High = { 15, 15, 15 }, Average = 15
+Matching: Wear_Back
+   Low = { 15, 15, 15 }, Average = 15
+   Mid = { 15, 15, 15 }, Average = 15
+   High = { 75, 15, 15 }, Average = 35
+================================================
+Time: Sunday, 04 October 2020 16:07:00
+Matching: Back_Pan
+   Low = { 60, 75, 105 }, Average = 80
+   Mid = { 75, 120, 120 }, Average = 105
+   High = { 180, 105, 90 }, Average = 125
+Matching: Pan_Back
+   Low = { 75, 90, 75 }, Average = 80
+   Mid = { 105, 75, 60 }, Average = 80
+   High = { 60, 75, 75 }, Average = 70
+Matching: Belt_Pan
+   Low = { 120, 105, 120 }, Average = 115
+   Mid = { 135, 135, 135 }, Average = 135
+   High = { 105, 120, 150 }, Average = 125
+Matching: Pan_Belt
+   Low = { 75, 30, 75 }, Average = 60
+   Mid = { 30, 45, 75 }, Average = 50
+   High = { 45, 60, 75 }, Average = 60
+Matching: Wear_Pan
+   Low = { 105, 60, 0 }, Average = 55
+   Mid = { 60, 90, 90 }, Average = 80
+   High = { 105, 75, 90 }, Average = 90
+Matching: Pan_Wear
+   Low = { 75, 150, 105 }, Average = 110
+   Mid = { 105, 105, 105 }, Average = 105
+   High = { 105, 105, 90 }, Average = 100
+Matching: Wear_Belt
+   Low = { 0, 45, 30 }, Average = 25
+   Mid = { 45, 60, 45 }, Average = 50
+   High = { 45, 60, 45 }, Average = 50
+Matching: Belt_Wear
+   Low = { 105, 105, 90 }, Average = 100
+   Mid = { 90, 105, 105 }, Average = 100
+   High = { 90, 90, 90 }, Average = 90
+Matching: Back_Belt
+   Low = { 45, 60, 60 }, Average = 55
+   Mid = { 60, 60, 60 }, Average = 60
+   High = { 45, 60, 60 }, Average = 55
+Matching: Belt_Back
+   Low = { 60, 90, 75 }, Average = 75
+   Mid = { 60, 90, 90 }, Average = 80
+   High = { 90, 90, 90 }, Average = 90
+Matching: Back_Wear
+   Low = { 105, 90, 120 }, Average = 105
+   Mid = { 120, 150, 150 }, Average = 140
+   High = { 105, 120, 105 }, Average = 110
+Matching: Wear_Back
+   Low = { 60, 75, 45 }, Average = 60
+   Mid = { 75, 75, 90 }, Average = 80
+   High = { 90, 75, 60 }, Average = 75
+================================================

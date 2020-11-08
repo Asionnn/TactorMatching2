@@ -1,0 +1,34 @@
+﻿<Window Closing="Window_Closing" 
+    x:Class="TactorMatching2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TactorMatching2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="7*"/>
+            <ColumnDefinition Width="37*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="panToBackBtn" Content="1. Back-Pan" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="123,139,0,0" Height="30" Click="PanToBackBtn_Click" Grid.ColumnSpan="2"/>
+        <Button x:Name="panToBeltBtn" Content="3. Belt-Pan" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="436,139,0,0" Height="30" Click="PanToBeltBtn_Click" Grid.Column="1"/>
+        <Button x:Name="panToWearableBtn" Content="5. Wearable-Pan" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="221,189,0,0" Height="30" Click="PanToWearableBtn_Click" Grid.Column="1"/>
+        <Button x:Name="wearableToPanBtn" Content="6. Pan-Wearable" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="436,189,0,0" Height="30" Click="WearableToPanBtn_Click" Grid.Column="1"/>
+        <Button x:Name="wearableToBeltBtn" Content="8. Belt-Wearable" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="221,239,0,0" Height="30" Click="WearableToBeltBtn_Click" Grid.Column="1"/>
+        <Button x:Name="BeltToBackBtn" Content="9. Back-Belt" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="436,239,0,0" Height="30" Click="BeltToBackBtn_Click" Grid.Column="1"/>
+        <Button x:Name="beltToWearableBtn" Content="7. Wearable-Belt" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="123,239,0,0" Height="30" Click="BeltToWearableBtn_Click" Grid.ColumnSpan="2"/>
+        <Button x:Name="beltToPanBtn" Content="4. Pan-Belt" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="123,189,0,0" Height="30" Click="BeltToPanBtn_Click" Grid.ColumnSpan="2"/>
+        <Button x:Name="backToPanBtn" Content="2. Pan-Back" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="221,139,0,0" Height="30" Click="BackToPanBtn_Click" Grid.Column="1"/>
+        <Button x:Name="backToBeltBtn" Content="10. Belt-Back" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="123,283,0,0" Height="30" Click="BackToBeltBtn_Click" Grid.ColumnSpan="2"/>
+        <Button x:Name="backToWearableBtn" Content="12. Wearable-Back" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="436,283,0,0" Height="30" Click="BackToWearableBtn_Click" Grid.Column="1"/>
+        <Button x:Name="wearableToBackBtn" Content="11. Back-Wearable" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="221,283,0,0" Height="30" Click="WearableToBackBtn_Click" Grid.Column="1"/>
+        <Button x:Name="submitBtn" Content="Submit" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="536,379,0,0" Height="30" Click="SubmitBtn_Click" Grid.Column="1"/>
+        <Button x:Name="buzzBtn" Content="Buzz" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="10,379,0,0" Height="30" Click="BuzzBtn_Click" Grid.ColumnSpan="2"/>
+        <Label x:Name="countLbl" Content="Label" HorizontalAlignment="Left" Height="34" Margin="581,10,0,0" VerticalAlignment="Top" Width="75" Grid.Column="1"/>
+        <Label x:Name="intensityLbl" Content="" HorizontalAlignment="Left" Height="34" Margin="10,10,0,0" VerticalAlignment="Top" Width="157" Grid.ColumnSpan="2"/>
+        <Label x:Name="currentGainLbl" Content="" HorizontalAlignment="Left" Height="34" Margin="10,49,0,0" VerticalAlignment="Top" Width="120" Grid.ColumnSpan="2"/>
+
+    </Grid>
+</Window>
