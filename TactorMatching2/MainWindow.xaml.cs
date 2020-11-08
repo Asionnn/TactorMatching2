@@ -14,9 +14,6 @@ namespace TactorMatching2
     public partial class MainWindow : Window
     {
         #region Tactor Methods
-        [DllImport(@"C:\Users\minisim\Desktop\Tactors\TDKAPI_1.0.6.0\libraries\Windows\TactorInterface.dll")]
-        public static extern IntPtr GetVersionNumber();
-
         [DllImport(@"C:\Users\minisim\Desktop\Tactors\TDKAPI_1.0.6.0\libraries\Windows\TactorInterface.dll",
             CallingConvention = CallingConvention.Cdecl)]
         public static extern int Discover(int type);
@@ -38,20 +35,12 @@ namespace TactorMatching2
         public static extern IntPtr GetDiscoveredDeviceName(int index);
 
         [DllImport(@"C:\Users\minisim\Desktop\Tactors\TDKAPI_1.0.6.0\libraries\Windows\TactorInterface.dll",
-            CallingConvention = CallingConvention.Cdecl)]
-        public static extern int DiscoverLimited(int type, int amount);
-
-        [DllImport(@"C:\Users\minisim\Desktop\Tactors\TDKAPI_1.0.6.0\libraries\Windows\TactorInterface.dll",
            CallingConvention = CallingConvention.Cdecl)]
         public static extern int ChangeGain(int deviceID, int tacNum, int gainval, int delay);
 
         [DllImport(@"C:\Users\minisim\Desktop\Tactors\TDKAPI_1.0.6.0\libraries\Windows\TactorInterface.dll",
             CallingConvention = CallingConvention.Cdecl)]
         public static extern int CloseAll();
-
-        [DllImport(@"C:\Users\minisim\Desktop\Tactors\TDKAPI_1.0.6.0\libraries\Windows\TactorInterface.dll",
-            CallingConvention = CallingConvention.Cdecl)]
-        public static extern int UpdateTI();
         #endregion
 
         #region enums
